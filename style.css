@@ -152,10 +152,9 @@ ul {
     .delete {
       background-color: #c02425;
       color: aliceblue;
-      border: 1px solid aliceblue;
       &:hover {
-        background-color: #ff4d4d;
-        border-color: #ff4d4d;
+        background-color: aliceblue;
+        color: #c02425;
       }
     }
   }
